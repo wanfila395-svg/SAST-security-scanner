@@ -51,7 +51,7 @@ def scan_directory(directory):
                for part in file_path.parts):
             continue
 
-        scan_file(file_path)s
+        scan_file(file_path)
 
 
 if __name__ == "__main__":
